@@ -1,6 +1,6 @@
-# adverp_insight_ledger
+# Adverp InsightLedger
+### AI-Enabled Lessons Learned Intelligence for Project Managers
 
-# AI-Enabled Lessons Learned Intelligence for Project Managers
 Version: 1.0
 Date: April 2026
 Prepared By: Suman Sinha
